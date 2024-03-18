@@ -2,6 +2,6 @@
   "name": "y2",
   "packageManager": "yarn@https://nexus-proxy.repo.local.company.net/nexus/content/groups/npm-all/@yarnpkg/cli-dist/-/cli-dist-3.7.0.tgz#sha224.a06723957ae0292e21f598a453",
   "dependencies": {
-    "left-pad": "1.0.0"
+    "left-pad": "1.3.0"
   }
 }
